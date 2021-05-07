@@ -10,8 +10,11 @@ GitPressではCode-Knackというブラウザ上でコードをオンライン�
 
 ### 例
 ```java
-for(int i = 0; i < 10; i++){
-  System.out.Println("Hello GitPress");
+public class GitPress {
+  public static void main(String[] args){
+    for(int i = 0; i < 10; i++){
+      System.out.Println("Hello GitPress");
+    }
+  }
 }
-
 ```
