@@ -13,13 +13,13 @@ excerpt: Your branch is ahead of ‘origin/ブランチ名’ by 〇 commitsと�
 
 ## 1.ローカルブランチの内容が正しくこれをリモートに反映させたいパターン
 
-```bash
+```sh
 git pull origin ブランチ名
 ```
 
 ## 2.リモートブランチに強制的に合わせるパターン
 
-```bash
+```sh
 git reset --hard origin/ブランチ名
 ```
 

@@ -5,6 +5,7 @@ excerpt: JSCPD
 ---
 
 # JSCPDとは
+
 JSCPD(JS Copy/Paste Detector)とはコピペされ重複したコードを検知するツール。
 npm経由でインストールできます。
 
