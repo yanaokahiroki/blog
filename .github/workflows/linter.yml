@@ -1,7 +1,5 @@
-name: SuperLinter
+name: Lint Code Base
 on:
-  workflow_dispatch:
-    branches: main
   pull_request:
     branches: main
 
