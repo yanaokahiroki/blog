@@ -64,7 +64,7 @@ div {
 個人的には記法が複雑なイメージがあったSassを敬遠していたのですが簡単に変換できるサイトがありました。
 左側にCSSを入力すると自動的にSassの記法に変換してくれます。
 
-![CSS-to-SASS](/source/assets/css-to-sass-converter.png)
+![CSS-to-SASS](/assets/css-to-sass-converter.png)
 
 [CSS to SASS converter](https://codebeautify.org/css-to-sass-converter)
 
