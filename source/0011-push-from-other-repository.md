@@ -10,7 +10,9 @@ excerpt: 別リポジトリの最新版を取り込む
 
 まずは下記の`git remote`コマンドで現在追加されているリモートリポジトリを確認します。
 これは実際の`blog`リポジトリにおける実行結果です。originという名前で`blog`リポジトリがリモートリポジトリとして追加されていることがわかります。
-originという名前はgitがデフォルトもつ名前です。
+originという名前はgitがデフォルトで持つ名前です。他の名前で登録することもできます。
+
+![GitHubの画像](images/github-empty-repository.png)
 
 ```sh
 $ git remote -v
